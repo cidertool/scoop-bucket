@@ -1,12 +1,12 @@
 {
-    "version": "0.0.2",
+    "version": "0.0.3",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cidertool/cider/releases/download/v0.0.2/cider_windows_x86_64.zip",
+            "url": "https://github.com/cidertool/cider/releases/download/v0.0.3/cider_windows_x86_64.zip",
             "bin": [
                 "cider.exe"
             ],
-            "hash": "f00331cb036b22120cf5b53a96f162eaa81a614d6f1dd62c9e6cc2f346cacf85"
+            "hash": "c93b9e6722ec843c2890b0bd9a0b636fbc309971cc03546bcb25bac1b476d91a"
         }
     },
     "homepage": "https://cidertool.github.io/cider",
