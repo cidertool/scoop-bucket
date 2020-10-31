@@ -1,15 +1,15 @@
 {
-    "version": "0.0.7",
+    "version": "0.0.8",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/cidertool/cider/releases/download/v0.0.7/cider_windows_x86_64.zip",
+            "url": "https://github.com/cidertool/cider/releases/download/v0.0.8/cider_windows_x86_64.zip",
             "bin": [
                 "cider.exe"
             ],
-            "hash": "78a86a57898b5d18208c54afa3ef5daa2890728855c808824d6fd469b5c83ee2"
+            "hash": "e58c6cee36f58ccae60ed92103d1720ceb46ff7fa19b5c1a91cdae0c69dc0ec2"
         }
     },
     "homepage": "https://cidertool.github.io/cider",
-    "license": "MIT",
+    "license": "GPL-3.0-or-later",
     "description": "Submit your builds to the Apple App Store in seconds"
 }
